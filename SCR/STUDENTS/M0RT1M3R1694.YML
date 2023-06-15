@@ -1,0 +1,19 @@
+template: "online-cv"
+skin: "Purple"
+
+basic_info: 
+                  #Personal information.
+education: 
+                  #Previous studies.
+
+experiences: 
+                 #Previous jobs.
+
+projects: 
+                  #Describe the projects you've built as a developer.
+
+publications: 
+                #Any articles you have published.
+
+skills: 
+                    #List your skills with a percentage of expertise.
